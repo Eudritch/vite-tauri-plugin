@@ -1,6 +1,6 @@
 {
     "name": "vite-tauri-plugin",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A vite plugin for Tauri",
     "main": "index.js",
     "type": "module",
@@ -19,5 +19,8 @@
     "bugs": {
         "url": "https://github.com/Eudritch/vite-tauri-plugin/issues"
     },
-    "homepage": "https://github.com/Eudritch/vite-tauri-plugin#readme"
+    "homepage": "https://github.com/Eudritch/vite-tauri-plugin#readme",
+    "peerDependencies": {
+        "vite": "^4.0.0"
+    }
 }
