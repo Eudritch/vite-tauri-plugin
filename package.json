@@ -1,0 +1,23 @@
+{
+    "name": "vite-tauri-plugin",
+    "version": "1.0.0",
+    "description": "A vite plugin for Tauri",
+    "main": "index.js",
+    "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Eudritch/vite-tauri-plugin.git"
+    },
+    "keywords": [
+        "vite",
+        "tauri",
+        "plugin",
+        "vite-plugin",
+        "tauri-plugin"
+    ],
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Eudritch/vite-tauri-plugin/issues"
+    },
+    "homepage": "https://github.com/Eudritch/vite-tauri-plugin#readme"
+}
